@@ -66,3 +66,7 @@ $ task-cli list todo                                                        # С
 $ task-cli list in-progress                                                 # Список задач в процессе выполнения
 
 $ task-cli delete 1                                                         # Удалить задачу
+
+Подробнее о требованиях и целях проекта:
+
+https://roadmap.sh/projects/task-tracker
